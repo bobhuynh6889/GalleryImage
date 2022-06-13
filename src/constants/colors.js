@@ -1,0 +1,11 @@
+export const color040404 = '#040404';
+export const colorFFFFFF = '#FFFFFF';
+export const color27A600 = '#27A600';
+export const colorEE8F00 = '#EE8F00';
+export const colorA31F1F = '#A31F1F';
+export const colorDDDEE1 = '#DDDEE1';
+export const color3777EE = '#3777EE';
+export const colorA7A8A9 = '#A7A8A9';
+export const color363636 = '#363636';
+export const color000000 = '#000000';
+export const colorF0F0F0 = '#F0F0F0';
